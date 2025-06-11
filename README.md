@@ -47,11 +47,6 @@ Check out my repos for:
 
 ---
 
-## 📈 GitHub Stats
-
-![Nyikiwe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 
